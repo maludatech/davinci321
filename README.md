@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nwite Victor Ugochukwu</h1>
 <h3 align="center">An enthusiastic full-stack developer from Nigeria.</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th/id/OIP.VMmvImch6VU5pc2VktY1uwHaFj?pid=ImgDet&rs=1"/>
