@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nwite Victor Ugochukwu</h1>
 <h3 align="center">An enthusiastic full-stack developer from Nigeria.</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th/id/OIP.VMmvImch6VU5pc2VktY1uwHaFj?pid=ImgDet&rs=1"/>
-- 🔭 I’m currently working on **Shazam website version**
+- 🔭 I’m currently working on **Cryptocurrency Investment Platform**
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Social Media WebApp**
 
-- 💬 Ask me about **React, tailwind CSS and ExpressJS**
+- 💬 Ask me about **React, tailwind CSS and NextJS**
 
 - 📫 How to reach me **nwitevictor7@gmail.com**
 
